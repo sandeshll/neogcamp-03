@@ -1,21 +1,6 @@
-/* by selector */
+@import url("https://fonts.googleapis.com/css2?family=Balsamiq+Sans&family=Roboto:wght@300&display=swap");
 
 body {
-  color: rebeccapurple;
-}
-
-h1 {
-  color: salmon;
-}
-
-/* by id */
-
-#Lib-header {
-  color: orange;
-}
-
-/* by class */
-
-.para {
-  color: steelblue;
+  font-family: "Balsamiq Sans", cursive;
+  font-family: "Roboto", sans-serif;
 }
